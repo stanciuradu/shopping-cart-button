@@ -35,7 +35,7 @@ export class ShoppingCart extends Component {
                 -
               </button>
               <button
-                className="tn btn-outline-success"
+                className="btn btn-outline-success"
                 type="button"
                 onClick={() => this.handleIncrementButton()}
               >
